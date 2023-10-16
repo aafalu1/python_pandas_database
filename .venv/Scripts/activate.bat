@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Basanta\python_worspaces\.venv
+set VIRTUAL_ENV=D:\Basanta\my_project\python_pandas_database\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
